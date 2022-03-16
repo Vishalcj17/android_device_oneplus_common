@@ -1,0 +1,2 @@
+PRODUCT_PACKAGES += \
+    audio_amplifier.$(TARGET_BOARD_PLATFORM)
